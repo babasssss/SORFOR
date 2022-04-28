@@ -1,8 +1,8 @@
-# Vue Wordle
+# Vue Vue-WORDLE
 
-A Vue implementation of the [Wordle game](https://www.powerlanguage.co.uk/wordle/). This is just for fun and doesn't aim to 100% replicate the original.
+A Vue implementation of the [Vue-WORDLE game](https://www.powerlanguage.co.uk/Vue-WORDLE/). This is just for fun and doesn't aim to 100% replicate the original.
 
-This repository is open sourced for learning purposes only - the original creator(s) of Wordle own all applicable rights to the game itself.
+This repository is open sourced for learning purposes only - the original creator(s) of Vue-WORDLE own all applicable rights to the game itself.
 
 ## Install project
 
